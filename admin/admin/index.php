@@ -13,7 +13,7 @@
         ),
         'table'             => 'forms',
         'fields'                => array (
-				'dni'   => array('title'=>'DNI','type'=>'text','filter'=>true, 'export'=>true),
+				'dni2'   => array('title'=>'DNI','type'=>'text','filter'=>true, 'export'=>true),
 				'nombre'    => array('title'=>'Nombre','type'=>'text','filter'=>true,'export'=>true),
 				'apellido'  => array('title'=>'Apellido','filter'=>true,'export'=>true),
 				'email'  => array('title'=>'Email','export'=>true),
